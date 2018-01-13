@@ -1,8 +1,9 @@
 <template>
-        <div id="navbar">
-                <h3>Dashboard</h3>
-        </div>
-  
+       <nav class="nav-wrap green">
+               <div class="container">
+                       <router-link to="/" class="brand-logo">   Employee Manager  </router-link>
+               </div>
+       </nav>
 </template>
 
 <script>
