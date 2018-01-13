@@ -1,4 +1,4 @@
-# employeemanager
+# Employee Manager
 
 > An Employee Manager
 
