@@ -1,8 +1,10 @@
 <template>
   <div id="app">
-    <!-- <img src="./assets/logo.png"> -->
-    <Navbar/>
-    <router-view/>
+        <Navbar/>
+        <div class="container">
+                <router-view/>
+        </div>
+    
   </div>
 </template>
 
